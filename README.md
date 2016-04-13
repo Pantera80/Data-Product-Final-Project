@@ -1,3 +1,3 @@
 # Data-Product-Final-Project
 
-Source codes of the Shiny Application
+This repository contains the source codes (ui.R and server.R) of the Shiny Application
